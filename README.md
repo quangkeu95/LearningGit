@@ -4,4 +4,6 @@ Tài liệu nhằm mục đích ghi chép lại các kiến thức về Git, tha
 
 **Mục lục**
 
+1. [Git merge vs rebase](docs/mergeAndRebase/merge_and_rebase.md)
+
 ## Reference
